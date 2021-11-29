@@ -6,6 +6,7 @@ public class DemoTwoPush {
 		System.out.println(" this is demo two push");
 		
 		System.out.prinln(" This is for pull trial from remot repo to local repo to workspace");
+		System.out.prinln(" This is  2nd pull trial from remot repo to local repo to workspace");
 	}
 
 }
